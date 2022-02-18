@@ -1,0 +1,26 @@
+.card {
+  width: 250px;
+  padding: 1% 1% 1% 3%;
+  margin: 3% 0 4% 2%;
+  margin-left: 5%;
+}
+
+.input {
+  padding: 3% 3% 3% 4%;
+  margin: 2% 2% 2% 0%;
+}
+
+.addButton {
+  background: green;
+  color: white;
+  border: none;
+  width: 30%;
+  height: 2rem;
+  font-size: 1rem;
+  margin-left: 4%;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background: rgb(0, 0, 0);
+}

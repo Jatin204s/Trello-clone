@@ -1,0 +1,19 @@
+.container {
+  width: 300px;
+  background-color: #d4d7e0;
+  padding: 1% 1% 1% 2%;
+  margin: 3% 0 4% 2%;
+  margin-right: 10px;
+}
+
+.cardContainer {
+  margin-top: 2px;
+  margin: 2%;
+  padding: 1%;
+  background-color: #d4d7e0;
+}
+
+.cardImage {
+  border: 1px solid #ddd;
+  width: 272px;
+}

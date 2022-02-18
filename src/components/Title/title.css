@@ -1,0 +1,19 @@
+.editableTitle {
+  flex-grow: 1;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-left: 5%;
+}
+
+.titleContainer {
+  display: flex;
+  width: 250px;
+}
+
+.morehoriz {
+  margin: auto;
+}
+
+.input {
+  background: #ddd;
+}
